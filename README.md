@@ -1,1 +1,1 @@
-# project_management
+# 1st term project management course assignment
